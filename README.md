@@ -1,7 +1,7 @@
 ### Olá, eu sou o Pedro Hein👋
 
 - 🔭 Atualmente, sou estudante de Engenharia da Computação
-- 🌱 Estudando algumas linguagens por ai...
+- 🌱 Me aventurando em algumas linguagens por ai...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHein&show_icons=true&hide=stars,prs&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHein&layout=compact&theme=tokyonight&hide=MATLAB)
